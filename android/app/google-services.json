@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040347494382",
+    "project_id": "ruhsaldurumtespiti",
+    "storage_bucket": "ruhsaldurumtespiti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040347494382:android:45f4afe6aa497bed0fc0ff",
+        "android_client_info": {
+          "package_name": "com.example.ruhsal_durum_tespiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040347494382-tea5fjcr4bt7898q34plnph0sugcusaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruhsal_durum_tespiti",
+            "certificate_hash": "1f523175fcbf8a946d77757f337f1f1c3d761016"
+          }
+        },
+        {
+          "client_id": "1040347494382-j385ms6iu20phcv214ttfprm4717oeu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwqI1tipDxotgD_V9SwT1QjRoINpBcJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040347494382-j385ms6iu20phcv214ttfprm4717oeu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
